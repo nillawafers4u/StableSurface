@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "stablesurface",
+    "name": "Stable Surface",
+    "authors": [
+        "Wafers"
+    ],
+    "description": "Makes all regions above sea level stable",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
