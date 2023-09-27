@@ -6,7 +6,7 @@
         "Wafers"
     ],
     "description": "Makes all regions above sea level stable",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dependencies": {
         "game": ""
     }
