@@ -1,0 +1,5 @@
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Release\Mods\mod\publish\assets\StableSurface\lang\en.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Release\Mods\mod\publish\modinfo.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Release\Mods\mod\publish\StableSurface.dll
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Release\Mods\mod\publish\StableSurface.deps.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Release\Mods\mod\publish\StableSurface.pdb

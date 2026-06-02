@@ -1,0 +1,117 @@
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\CakeBuild.exe
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\CakeBuild.deps.json
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\CakeBuild.runtimeconfig.json
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\CakeBuild.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Autofac.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.Cli.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.Common.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.Core.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.DotNetTool.Module.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.Frosting.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.Json.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Cake.NuGet.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Common.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Configuration.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Credentials.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Packaging.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Protocol.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Resolver.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\NuGet.Versioning.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Spectre.Console.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\Spectre.Console.Cli.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\de\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\es\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\fr\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\it\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\ja\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\ko\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\pt\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\ru\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\sv\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\zh-Hans\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\VintagestoryAPI.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\VintagestoryAPI.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\bin\Debug\VintagestoryAPI.xml
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.csproj.AssemblyReference.cache
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.AssemblyInfoInputs.cache
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.AssemblyInfo.cs
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.csproj.Up2Date
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\refint\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\CakeBuild.genruntimeconfig.cache
+C:\Users\Jonah\RiderProjects\StableSurface\CakeBuild\obj\Debug\ref\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\CakeBuild.exe
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\CakeBuild.deps.json
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\CakeBuild.runtimeconfig.json
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\CakeBuild.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Autofac.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.Cli.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.Common.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.Core.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.DotNetTool.Module.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.Frosting.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.Json.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Cake.NuGet.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Common.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Configuration.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Credentials.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Packaging.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Protocol.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Resolver.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\NuGet.Versioning.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Spectre.Console.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\Spectre.Console.Cli.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\de\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\es\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\fr\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\it\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\ja\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\ko\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\pt\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\ru\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\sv\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\zh-Hans\Spectre.Console.Cli.resources.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\VintagestoryAPI.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\VintagestoryAPI.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\bin\Debug\VintagestoryAPI.xml
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.csproj.AssemblyReference.cache
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.AssemblyInfoInputs.cache
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.AssemblyInfo.cs
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.sourcelink.json
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.csproj.Up2Date
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\refint\CakeBuild.dll
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.pdb
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\CakeBuild.genruntimeconfig.cache
+C:\Users\Jonah\RiderProjects\StableSurface\New folder\CakeBuild\obj\Debug\ref\CakeBuild.dll

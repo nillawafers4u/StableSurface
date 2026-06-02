@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ31zMtTY00=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonah\\.nuget\\packages\\autofac\\9.0.0\\autofac.9.0.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.cli\\6.1.0\\cake.cli.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.common\\6.1.0\\cake.common.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.core\\6.1.0\\cake.core.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.dotnettool.module\\6.1.0\\cake.dotnettool.module.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.frosting\\6.1.0\\cake.frosting.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.json\\7.0.1\\cake.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\cake.nuget\\6.1.0\\cake.nuget.6.1.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.16.0\\microsoft.identitymodel.abstractions.8.16.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.16.0\\microsoft.identitymodel.jsonwebtokens.8.16.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.identitymodel.logging\\8.16.0\\microsoft.identitymodel.logging.8.16.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.16.0\\microsoft.identitymodel.tokens.8.16.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.common\\7.3.0\\nuget.common.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.configuration\\7.3.0\\nuget.configuration.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.credentials\\7.3.0\\nuget.credentials.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.frameworks\\7.3.0\\nuget.frameworks.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.packaging\\7.3.0\\nuget.packaging.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.protocol\\7.3.0\\nuget.protocol.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.resolver\\7.3.0\\nuget.resolver.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\nuget.versioning\\7.3.0\\nuget.versioning.7.3.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\spectre.console.cli\\0.53.1\\spectre.console.cli.0.53.1.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.3\\system.security.cryptography.pkcs.10.0.3.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Packaging' 7.3.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Protocol' 7.3.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

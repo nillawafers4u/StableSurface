@@ -1,0 +1,14 @@
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Debug\Mods\mod\assets\StableSurface\lang\en.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Debug\Mods\mod\modinfo.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Debug\Mods\mod\StableSurface.deps.json
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Debug\Mods\mod\StableSurface.dll
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\bin\Debug\Mods\mod\StableSurface.pdb
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.csproj.AssemblyReference.cache
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.AssemblyInfoInputs.cache
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.AssemblyInfo.cs
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.dll
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\refint\StableSurface.dll
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\StableSurface.pdb
+C:\Users\Jonah\Desktop\VS modding\StableSurface\StableSurface\obj\Debug\ref\StableSurface.dll
