@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {}
   },
@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\StableSurface\\StableSurface.csproj",
+      "projectUniqueName": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\StableSurface\\StableSurface.csproj",
       "projectName": "StableSurface",
-      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\StableSurface\\StableSurface.csproj",
+      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\StableSurface\\StableSurface.csproj",
       "packagesPath": "C:\\Users\\Jonah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\StableSurface\\obj\\",
+      "outputPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\StableSurface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonah\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -48,6 +49,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",

@@ -21,6 +21,6 @@ namespace StableSurface
             }
         }
 
-        public required Harmony harmony;
+        private Harmony harmony;
     }
 }

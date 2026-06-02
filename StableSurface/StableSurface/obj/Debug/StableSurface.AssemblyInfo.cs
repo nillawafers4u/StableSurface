@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StableSurface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a18c3813a3c3912f17a02da52498f4c9d81c380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53e2c6d330e5591112d15520313fa6b46fee6b41")]
 [assembly: System.Reflection.AssemblyProductAttribute("StableSurface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StableSurface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

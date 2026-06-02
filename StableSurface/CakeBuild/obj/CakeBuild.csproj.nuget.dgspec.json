@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj": {}
+    "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj": {
+    "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+        "projectUniqueName": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
         "projectName": "CakeBuild",
-        "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+        "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
         "packagesPath": "C:\\Users\\Jonah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\obj\\",
+        "outputPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonah\\AppData\\Roaming\\NuGet\\NuGet.Config"

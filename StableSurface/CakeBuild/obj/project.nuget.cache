@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJ31zMtTY00=",
+  "dgSpecHash": "IjKfgUUnamA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+  "projectFilePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonah\\.nuget\\packages\\autofac\\9.0.0\\autofac.9.0.0.nupkg.sha512",
     "C:\\Users\\Jonah\\.nuget\\packages\\cake.cli\\6.1.0\\cake.cli.6.1.0.nupkg.sha512",
@@ -38,9 +38,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 7.3.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -50,9 +50,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 7.3.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "projectPath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\New folder\\CakeBuild\\CakeBuild.csproj",
+      "filePath": "C:\\Users\\Jonah\\RiderProjects\\StableSurface\\StableSurface\\CakeBuild\\CakeBuild.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"
